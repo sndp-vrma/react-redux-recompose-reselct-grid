@@ -1,3 +1,9 @@
+
+```json
+git clone https://github.com/sndp-vrma/react-redux-recompose-reselct-grid.git
+yarn
+yarn start
+```
 Searchable and Sortable Grid using React, Redux, Reselect and Recompose
 
 
